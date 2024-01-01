@@ -1,0 +1,9 @@
+
+
+
+Game has Deccisions - these are anything that needs to be treated differently when actually playing vs searching.
+These include any random events or player decisions.
+Random decisions
+Player Decisions
+Semi Random Decisions (e.g. Quacks - draw four tokens and then pick one)
+Game Outcomes - winning/losing
